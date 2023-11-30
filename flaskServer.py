@@ -19,6 +19,13 @@ def handle_connect():
 def index():
     return render_template('index.html')
 
+
+# tweet_id = int 
+# username = string name of company
+# standart_link = tweeter/companyname
+# status_link = url standart 
+# analytics_link = ###
+
 @app.route('/tweets', methods=['POST'])
 def write_tweet_to_file(tweet):
     try:
