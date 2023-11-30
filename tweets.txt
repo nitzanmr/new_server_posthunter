@@ -1,0 +1,5 @@
+{'tweet_id': 1726308802847522816, 'tweet_handle': 'theeglamnaija', 'sentiment': 'report', 'standart_link': 'https://twitter.com/theeglamnaija', 'status_link': 'https://x.com/theeglamnaija/status/1726308802847522816'}
+{'tweet_id': 1726395896181469218, 'tweet_handle': 'PeterBeinart', 'sentiment': 'report', 'standart_link': 'https://twitter.com/PeterBeinart', 'status_link': 'https://x.com/PeterBeinart/status/1726395896181469218'}
+{'tweet_id': 1726194535749812405, 'tweet_handle': 'aykutkuskaya', 'sentiment': 'report', 'standart_link': 'https://twitter.com/aykutkuskaya', 'status_link': 'https://x.com/aykutkuskaya/status/1726194535749812405'}
+{'tweet_id': 1726948242531782961, 'tweet_handle': 'OwenJones84', 'sentiment': 'report', 'standart_link': 'https://twitter.com/OwenJones84', 'status_link': 'https://x.com/OwenJones84/status/1726948242531782961'}
+{'tweet_id': 1726392432353333408, 'tweet_handle': 'efectococuyo', 'sentiment': 'report', 'standart_link': 'https://twitter.com/efectococuyo', 'status_link': 'https://x.com/efectococuyo/status/1726392432353333408'}
